@@ -1,3 +1,6 @@
+import random
+import copy
+
 def num_placements_all(n):
     fact_n = 1
     fact_r = 1
