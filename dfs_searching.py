@@ -34,7 +34,7 @@ def n_queens_valid(board):
                 ctr += 1
     return True
 
-
+#dfs searching
 def n_queens_solutions(n):
     global solution_list
     solution_list = []
